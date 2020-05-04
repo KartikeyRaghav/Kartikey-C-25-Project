@@ -1,2 +1,2 @@
-# Kartikey-C-25-Project
-Creating a raindrop pattern
+# p5.play-boilerplate
+Boiler plate for p5.play
